@@ -50,7 +50,7 @@ const Navbar = () => {
           
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Mihir &nbsp;
-            <span className="sm:block hidden"> | Devxora</span>
+            <span className="sm:block hidden"> | Developer</span>
           </p>
         </Link>
 
